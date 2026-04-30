@@ -1,15 +1,12 @@
-## **🛑 Business Problem**
+# Business Problem
 
-The ride‑hailing platform is experiencing three core business challenges:
+The ride‑hailing platform needs to optimize its pricing and operations. Although the system handles a high volume of trips, revenue per ride does not scale well with distance, leading to inefficient pricing. In addition, demand varies significantly by hour and location, causing peak‑time congestion and off‑peak underutilization. The company requires data‑driven insights to improve pricing, balance supply and demand, and increase overall operational efficiency.
+---
 
-1. **Inefficient Pricing Structure:**  
-   Average fares remain nearly flat across all distance buckets (500–515), causing long‑distance trips to be under‑monetized and short trips overpriced. This indicates a weak distance‑based pricing model and potential revenue leakage.
+**You can  find the Tableau Dashboard** [here](https://public.tableau.com/app/profile/mostafa.alali/viz/Uber2024Performance/Dashboard1)
+- 📦 Raw Data: [orders_data_raw_sheet](Data_set\ncr_ride_bookings.csv)
 
-2. **Suboptimal Driver Allocation:**  
-   Demand peaks sharply between 18:00–19:00 while off‑peak hours show significant underutilization. Without dynamic supply or pricing adjustments, the platform faces long wait times during peaks and operational inefficiency during low‑demand periods.
-
-3. **High Geo‑Concentration Risk:**  
-   A small set of pickup locations generates a disproportionate share of revenue. This creates dependency on a limited number of zones and exposes the business to localized disruptions.
+---
 
 These issues directly impact revenue growth, operational efficiency, and customer experience, making data‑driven optimization essential.
 
@@ -71,13 +68,3 @@ Top pickup hubs: **Barakhamba Road, Khandsa, Subhash Chowk, Pataudi Chowk…**
 - Off‑peak discounts  
 
 ---
-
-## **💪 Strengths**
-- Strong demand base  
-- Stable patterns  
-- Clear peak hours  
-
-## **⚠️ Weaknesses**
-- Weak distance‑based pricing  
-- Off‑peak underutilization  
-- No customer segmentation  
