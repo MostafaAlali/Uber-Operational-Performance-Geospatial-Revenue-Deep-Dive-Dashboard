@@ -1,6 +1,7 @@
 # Business Problem
 
-The ride‑hailing platform needs to optimize its pricing and operations. Although the system handles a high volume of trips, revenue per ride does not scale well with distance, leading to inefficient pricing. In addition, demand varies significantly by hour and location, causing peak‑time congestion and off‑peak underutilization. The company requires data‑driven insights to improve pricing, balance supply and demand, and increase overall operational efficiency.
+The ride hailing platform needs to optimize its pricing and operations. Although the system handles a high volume of trips, revenue per ride does not scale well with distance, leading to inefficient pricing. In addition, demand varies significantly by hour and location, causing peak time congestion and off peak underutilization. The company requires data driven insights to improve pricing, balance supply and demand, and increase overall operational efficiency.
+
 ---
 
 **You can  find the Tableau Dashboard** [here](https://public.tableau.com/app/profile/mostafa.alali/viz/Uber2024Performance/Dashboard1)
